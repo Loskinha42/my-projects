@@ -9,7 +9,7 @@ My goal is to **grow** through consistent practice and real-world challenges.
 - Learn programming through hands-on practice  
 - Gradually increase the complexity of my projects over time  
 - Become not just a good coder, but a **rare, high-level professional**  
-- Stay motivated and passionate about IT — I don't want to be mediocre  
+- Stay motivated and passionate about IT — I don't want to be average  
 
 ---
 
